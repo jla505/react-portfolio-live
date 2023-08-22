@@ -88,7 +88,7 @@
 
 
 
-A personal portfolio website created using React, Tailwind CSS, Framer Motion, and React Hook Form would combine modern web development technologies to create a visually appealing and interactive online presence.
+A personal portfolio website created using React, Tailwind CSS, Framer Motion, and React Hook Form combines modern web development technologies to create a visually appealing and interactive online presence.
 
 1. The portfolio website starts with a clean and minimalistic header section. The navigation bar includes links to various sections of the website, such as Home, Projects, About, and Contact.
 
