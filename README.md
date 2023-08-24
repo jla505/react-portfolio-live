@@ -94,7 +94,7 @@ A personal portfolio website created using React, Tailwind CSS, Framer Motion, a
 
 2. The home section features a large hero image or background that sets the tone for the website. The hero section includes a brief tagline that captures my essence as a professional. It includes a professional photograph of me, a short bio, and highlights key skills or expertise areas. Using Framer Motion, the photograph has a gentle zoom-in animation to draw attention.
 
-3. In the projects section, a grid showcases your best work. Each project is represented by an image, title, and a brief description. When a user hovers over a project, Framer Motion animates a subtle fade effect, giving users a more interactive experience. Hovering over a project opens a modal with further details about the project, including technologies used, and my role.
+3. In the projects section, a grid showcases my best work. Each project is represented by an image, title, and a brief description. When a user hovers over a project, Framer Motion animates a subtle fade effect, giving users a more interactive experience. Hovering over a project opens a modal with further details about the project, including technologies used, and my role.
 
 4. The contact section features a contact form created using React Hook Form. The form includes fields for the user's name, email address, and message. React Hook Form is utilized to perform real-time validation, giving visual feedback to users as they fill out the form. 
 
